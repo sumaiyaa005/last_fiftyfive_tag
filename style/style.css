@@ -1,0 +1,24 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    width: 80%;
+}
+
+a{
+    color: black;
+    list-style: none;
+    margin-left: 20px;
+    text-decoration: none;
+
+}
+
+.nav{
+    background-color: red;
+    margin-top: 10px;
+}
+
+.object{
+    margin-top:10px
+}
